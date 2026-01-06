@@ -17,4 +17,4 @@ fi
 
 . $IDF_PATH/export.sh
 
-exec "$@"
+exec "$@"/!44#
